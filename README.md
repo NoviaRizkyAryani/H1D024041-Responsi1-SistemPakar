@@ -3,10 +3,10 @@
 **KosMatch** adalah sistem pakar (Expert System) berbasis web yang dirancang untuk membantu mahasiswa menemukan tipe hunian kos yang paling sesuai dengan kepribadian, kebutuhan, dan gaya hidup mereka. KosMatch menggunakan metode **Forward Chaining** untuk melakukan inferensi berdasarkan 16 variabel preferensi mahasiswa.
 
 ---
-Nama: Novia Rizky Aryani
-NIM: H1D024041
-Shift KRS: Shift H
-Shift Baru: Shift D
+* **Nama:** Novia Rizky Aryani
+* **NIM:** H1D024041
+* **Shift KRS:** Shift H
+* **Shift Baru:** Shift D
 ---
 
 ### Inference Engine: Forward Chaining
