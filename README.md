@@ -29,7 +29,7 @@ Sistem bekerja dengan mengumpulkan fakta (Working Memory) dari input pengguna, l
 ## Variabel Keputusan (16 Kriteria)
 Sistem melakukan analisis mendalam terhadap kriteria-kriteria berikut:
 1.  **Alokasi Budget** (Hemat, Menengah, Premium).
-2.  **Moda Transportasi** (Jalan Kaki vs Kendaraan Pribadi).
+2.  **Mode Transportasi** (Jalan Kaki vs Kendaraan Pribadi).
 3.  **Kebutuhan Interaksi Sosial** (Introvert vs Ekstrovert).
 4.  **Tipe Kamar Mandi** (Luar vs Dalam).
 5.  **Fasilitas Pendingin** (Kipas vs AC).
@@ -38,7 +38,7 @@ Sistem melakukan analisis mendalam terhadap kriteria-kriteria berikut:
 8.  **Keamanan Gedung** (Biasa vs Wajib CCTV).
 9.  **Kunjungan Teman** (Sering vs Jarang).
 10. **Tingkat Ketenangan** (Hening vs Toleransi Bising).
-11. **Jumlah Barang** (Minimalis vs Banyak/PC Gear).
+11. **Jumlah Barang** (Minimalis vs Banyak).
 12. **Layanan Kebersihan** (Mandiri vs Cleaning Service).
 13. **Kualitas Internet** (Kuota HP vs WiFi Kencang).
 14. **Fasilitas Parkir** (Cukup Motor vs Mobil/Luas).
