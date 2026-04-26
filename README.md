@@ -3,6 +3,11 @@
 **KosMatch** adalah sistem pakar (*Expert System*) berbasis web yang dirancang untuk membantu mahasiswa menemukan tipe hunian kos yang paling sesuai dengan kepribadian, kebutuhan, dan gaya hidup mereka. KosMatch menggunakan metode **Forward Chaining** untuk melakukan inferensi berdasarkan 16 variabel preferensi mahasiswa.
 
 ---
+Nama: Novia Rizky Aryani
+NIM: H1D024041
+Shift KRS: Shift H
+Shift Baru: Shift D
+---
 
 ### Inference Engine: Forward Chaining
 Sistem bekerja dengan mengumpulkan fakta (*Working Memory*) dari input pengguna, lalu mencocokkannya dengan aturan (*Production Rules*) untuk mengakumulasi skor pada 5 kategori hunian utama:
@@ -43,31 +48,10 @@ Sistem melakukan analisis mendalam terhadap kriteria-kriteria berikut:
 ---
 
 ## Cara Menjalankan Secara Lokal
-
-1.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/NoviaRizkyAryani/H1D024041-Responsi1-SistemPakar.git](https://github.com/NoviaRizkyAryani/H1D024041-Responsi1-SistemPakar.git)
-    cd KosMatch
-    ```
-
-2.  **Buat Virtual Environment (Opsional):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # Mac/Linux
-    venv\Scripts\activate     # Windows
-    ```
-
-3.  **Instal Dependensi:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Jalankan Aplikasi:**
-    ```bash
-    python api/index.py
-    ```
-    Akses aplikasi di `http://localhost:5000`.
-
+- Clone repositori ini ke komputer Anda.
+- Instal dependensi Flask: pip install flask
+- Jalankan aplikasi: python api/index.py
+- Akses melalui browser pada alamat: http://127.0.0.1:5000
 ---
 
 ## Struktur Folder
