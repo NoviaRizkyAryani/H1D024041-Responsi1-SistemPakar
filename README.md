@@ -1,6 +1,6 @@
-# KosMatch: Rekomendasi Tipe Kos Berdasarkan Gaya Hidup Mahasiswa 
+# KosMatch: Rekomendasi Tipe Kos Berdasarkan Gaya Hidup Mahasiswa
 
-**KosMatch** adalah sistem pakar (*Expert System*) berbasis web yang dirancang untuk membantu mahasiswa menemukan tipe hunian kos yang paling sesuai dengan kepribadian, kebutuhan, dan gaya hidup mereka. KosMatch menggunakan metode **Forward Chaining** untuk melakukan inferensi berdasarkan 16 variabel preferensi mahasiswa.
+**KosMatch** adalah sistem pakar (Expert System) berbasis web yang dirancang untuk membantu mahasiswa menemukan tipe hunian kos yang paling sesuai dengan kepribadian, kebutuhan, dan gaya hidup mereka. KosMatch menggunakan metode **Forward Chaining** untuk melakukan inferensi berdasarkan 16 variabel preferensi mahasiswa.
 
 ---
 Nama: Novia Rizky Aryani
@@ -10,9 +10,9 @@ Shift Baru: Shift D
 ---
 
 ### Inference Engine: Forward Chaining
-Sistem bekerja dengan mengumpulkan fakta (*Working Memory*) dari input pengguna, lalu mencocokkannya dengan aturan (*Production Rules*) untuk mengakumulasi skor pada 5 kategori hunian utama:
+Sistem bekerja dengan mengumpulkan fakta (Working Memory) dari input pengguna, lalu mencocokkannya dengan aturan (Production Rules) untuk mengakumulasi skor pada 5 kategori hunian utama:
 * **Kos Sultan:** Prioritas fasilitas premium dan kenyamanan tanpa batas.
-* **Kos Hemat:** Fokus pada efisiensi *budget* dan kedekatan lokasi.
+* **Kos Hemat:** Fokus pada efisiensi budget dan kedekatan lokasi.
 * **Kos Nongkrong:** Dirancang untuk kepribadian ekstrovert yang mencari komunitas.
 * **Kos Privat:** Untuk mereka yang membutuhkan ketenangan dan ruang hobi (gaming/nugas).
 * **Kos Tertib:** Mengutamakan keamanan, aturan yang jelas, dan disiplin.
@@ -52,6 +52,7 @@ Sistem melakukan analisis mendalam terhadap kriteria-kriteria berikut:
 - Instal dependensi Flask: pip install flask
 - Jalankan aplikasi: python api/index.py
 - Akses melalui browser pada alamat: http://127.0.0.1:5000
+
 ---
 
 ## Struktur Folder
